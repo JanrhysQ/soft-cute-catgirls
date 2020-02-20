@@ -2,8 +2,7 @@
 //  AppDelegate.swift
 //  FlashAaaaa
 //
-//  Created by JANRHYS QUIJADA on 1/30/20.
-//  Copyright © 2020 JANRHYS QUIJADA. All rights reserved.
+//  Submitted by: Janrhys
 //
 
 import UIKit
